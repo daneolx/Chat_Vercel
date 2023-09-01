@@ -6,7 +6,21 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.14.1",
-    "socket.io": "^2.3.0"
-  }
+    "express": "^4.18.2",
+    "socket.io": "^2.5.0"
+  },
+  "description": "Ejemplo de [Web Sockets] con [Node.js](http://nodejs.org) y [socket.io](http://socket.io).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daneolx/Chat_Vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daneolx/Chat_Vercel/issues"
+  },
+  "homepage": "https://github.com/daneolx/Chat_Vercel#readme"
 }
